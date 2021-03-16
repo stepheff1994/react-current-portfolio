@@ -25,11 +25,11 @@
 
 
 body{
-    background-color: #c9cad1;
+    /* background-color: #c9cad1;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: var(--dark);
     background-image: url("../images/heroimage.png");
-    height: 100vh;
+    height: 100vh; */
 }
 
 header{
@@ -42,7 +42,7 @@ header{
 
 
 header h1{
-    padding: 0 10px 0 30px;
+    padding: 0 10px 0 10px;
      
     
 }
