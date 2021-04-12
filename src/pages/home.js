@@ -30,7 +30,7 @@ function Home() {
             <div className="grid-container">
               <a
                 className="grid-item item-1"
-                href="https://siphon880gh.github.io/your-daily-portal-adaigo-element/"
+                href="https://la-locals.herokuapp.com/"
               >
                 Featured:
                 <strong>AdaigoElement</strong>
