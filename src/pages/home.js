@@ -33,7 +33,7 @@ function Home() {
                 href="https://la-locals.herokuapp.com/"
               >
                 Featured:
-                <strong>AdaigoElement</strong>
+                <strong>LA-LOCALS</strong>
               </a>
               <a
                 className="grid-item item-2"
